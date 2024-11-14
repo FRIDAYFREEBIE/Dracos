@@ -28,3 +28,6 @@
 - 짧은 시간 동안 빠르게 기획하고 개발하는 **게임잼**을 경험하며 성장했습니다.
 
 ---
+
+## 📄 프로젝트 자료
+[구글 드라이브로 이동](https://drive.google.com/drive/folders/1ZKiAMxDCecbq_b1ObxHKm2N0Vihuvhcu?usp=drive_link)
